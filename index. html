@@ -1,11 +1,22 @@
 <html>
-<head>
-   <titel> mince kogoya</titel>
-</head>
-<body> 
-   <h1> Biodata :</h1>
+  
+  <head>
+    <title>Janzen Faidiban</title>
+  </head>
+  
+  <body>
+    
+    <h1>Biodata :</h1>
     <p>
-    Nama Lengkap : <b> Mince kogoya</b>
+      Nama Lengkap : <b>Janzen Faidiban</b>
     </p>
-</body>
-</htlm>
+    <p>
+      GitHub Profile : 
+      <a href="https://github.com/janzenfaidiban"> 
+        janzenfaidiban 
+      </a>
+    </p>
+    
+  </body>
+  
+</html>
